@@ -1,0 +1,37 @@
+[
+  {
+    "code": 1,
+    "nom_scientifique": "Canis lupus familiaris",
+    "espèce": "Chien",
+    "nombre_de_pieds": 4,
+    "pays_d_origine": "Global"
+  },
+  {
+    "code": 2,
+    "nom_scientifique": "Felis catus",
+    "espèce": "Chat",
+    "nombre_de_pieds": 4,
+    "pays_d_origine": "Égypte"
+  },
+  {
+    "code": 3,
+    "nom_scientifique": "Gallus gallus domesticus",
+    "espèce": "Poulet",
+    "nombre_de_pieds": 2,
+    "pays_d_origine": "Inde"
+  },
+  {
+    "code": 4,
+    "nom_scientifique": "Panthera leo",
+    "espèce": "Lion",
+    "nombre_de_pieds": 4,
+    "pays_d_origine": "Afrique"
+  },
+  {
+    "code": 5,
+    "nom_scientifique": "Ailuropoda melanoleuca",
+    "espèce": "Panda",
+    "nombre_de_pieds": 4,
+    "pays_d_origine": "Chine"
+  }
+]
